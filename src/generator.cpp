@@ -45,6 +45,7 @@ int** getEmptyBoard() {
 std::vector<int> getShuffledVector() {
     // TODO: Implement shuffling logic here
     /**
+     *
      * TODO:
      * - Create a vector with numbers 1 to 9.
      * - Apply a shuffling algorithm to randomize the order.
@@ -56,9 +57,12 @@ std::vector<int> getShuffledVector() {
      */
     // Dummy implementation:
     // Temporary static return for testing
+    vector<int>num={1,2,3,4,,5,6,7,8,9};
+
+
     return {3, 1, 4, 2, 7, 6, 5, 9, 8};
 }
-vector<int>num={1,2,3,4,,5,6,7,8,9};
+
 
 
 // Hint 2:  Random Independent Box fill:
