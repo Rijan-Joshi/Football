@@ -3,7 +3,7 @@
 
 ⚠️ **IMPORTANT NOTICE**
 
-**Use of Generative AI Tools (e.g., ChatGPT):**  
+**Use of Generative AI Tool (e.g., ChatGPT):**  
 - You may use AI tools for **learning purposes only**.  
 - **Do NOT** seek full solutions or copy-paste answers without understanding them.  
 - If I suspect improper use, a **one-on-one session** will be scheduled, and if discrepancies are found, your project will be **disqualified**.
